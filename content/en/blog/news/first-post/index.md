@@ -1,9 +1,9 @@
 ---
 date: 2018-10-06
-title: "Easy documentation with Docsy"
-linkTitle: "Announcing Docsy"
-description: "The Docsy Hugo theme lets project maintainers and contributors focus on content, not on reinventing a website infrastructure from scratch"
-author: Riona MacNamara ([@rionam](https://twitter.com/bepsays))
+title: "What is Quality Assurance DAO (QA-DAO)"
+linkTitle: "What is Quality Assurance DAO (QA-DAO)"
+description: "Quality Assurance DAO (QA-DAO) is an ongoing open source project that provides support for the Cardano Project Catalyst Community."
+author: Stephen Whitenstall
 resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"
@@ -11,9 +11,10 @@ resources:
     byline: "Photo: Riona MacNamara / CC-BY-CA"
 ---
 
-**This is a typical blog post that includes images.**
+**Quality Assurance DAO (QA-DAO) .**
 
-The front matter specifies the date of the blog post, its title, a short description that will be displayed on the blog landing page, and its author.
+Quality Assurance DAO (QA-DAO) is an ongoing open source project that provides support for the Cardano Project Catalyst Community. 
+In Fund 5 of Project Catalyst QA-DAO submitted a proposal "Quality Assurance DAO" in the Developer Ecosystem Challenge that sought to encourage open-source collaboration & innovation and to do a QA Assessment of Catalyst Proposal Process itself. This proposal was successful in receiving votes and was funded in August 2021. Governance of the Quality Assurance DAO Fund 5 proposal may be followed here
 
 ## Including images
 

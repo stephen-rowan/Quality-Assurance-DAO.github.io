@@ -1,7 +1,7 @@
 
 ---
-title: "Catalyst  Circle"
-linkTitle: "Catalyst  Circle"
+title: "Catalyst-Circle"
+linkTitle: "Catalyst-Circle"
 weight: 20
 ---
 

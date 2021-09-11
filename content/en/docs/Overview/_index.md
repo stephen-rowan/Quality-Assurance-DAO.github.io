@@ -6,8 +6,8 @@ description: >
   Here's where your user finds out if your project is for them.
 ---
 
-## Documentation
-QA-DAO designs and maintains documentation in open-source GitHub repositories for the Catalyst Circle, Catalyst Swarm and The Catalyst School.
+## Documentation & Tracking
+QA-DAO designs and maintains documentation and tracks activity in open-source GitHub repositories for the Catalyst Circle, Catalyst Swarm and The Catalyst School.
 
 ## Transparent Governance
 QA-DAO reports on and tracks Catalyst Governance experiments such as the Catalyst Circle.

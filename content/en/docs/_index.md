@@ -8,17 +8,14 @@ menu:
     weight: 20
 ---
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
+## What is Quality Assurance DAO ?
 
+QA-DAO has submitted proposals in Fund 6 of Project Catalyst. Follow this link to the Fund 6 Proposals Section for more details.
 
-This section is where the user documentation for your project lives - all the information your users need to understand and successfully use your project. 
+Quality Assurance DAO (QA-DAO) is an ongoing open source project that provides support for the Cardano Project Catalyst Community. 
 
-For large documentation sets we recommend adding content under the headings in this section, though if some or all of them don’t apply to your project feel free to remove them or add your own. You can see an example of a smaller Docsy documentation site in the [Docsy User Guide](https://docsy.dev/docs/), which lives in the [Docsy theme repo](https://github.com/google/docsy/tree/master/userguide) if you'd like to copy its docs section. 
+In Fund 5 of Project Catalyst QA-DAO submitted a proposal "Quality Assurance DAO" in the Developer Ecosystem Challenge that sought to encourage open-source collaboration & innovation and to do a QA Assessment of Catalyst Proposal Process itself. This proposal was successful in receiving votes and was funded in August 2021. Governance of the Quality Assurance DAO Fund 5 proposal may be followed here.
 
-Other content such as marketing material, case studies, and community updates should live in the [About](/about/) and [Community](/community/) pages.
-
-Find out how to use the Docsy theme in the [Docsy User Guide](https://docsy.dev/docs/). You can learn more about how to organize your documentation (and how we organized this site) in [Organizing Your Content](https://docsy.dev/docs/best-practices/organizing-content/).
+QA-DAOs own GitHub Organization is at https://github.com/Quality-Assurance-DAO.
 
 

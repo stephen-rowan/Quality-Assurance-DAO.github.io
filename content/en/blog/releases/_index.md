@@ -1,7 +1,7 @@
 
 ---
-title: "New Releases"
-linkTitle: "Releases"
+title: "Catalyst  Circle"
+linkTitle: "Catalyst  Circle"
 weight: 20
 ---
 

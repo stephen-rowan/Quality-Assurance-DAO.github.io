@@ -1,6 +1,6 @@
 ---
-title: "Documentation & Tracking"
-linkTitle: "Documentation & Tracking"
+title: "Quality Assurance DAO"
+linkTitle: "Quality Assurance DAO"
 weight: 2
 description: >
   What does your user need to know to try your project?

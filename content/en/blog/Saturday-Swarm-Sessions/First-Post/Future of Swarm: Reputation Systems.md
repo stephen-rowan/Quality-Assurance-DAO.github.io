@@ -15,9 +15,7 @@ resources:
 Here's an image (`Reputation.png`) that includes a byline and a caption.
 
 
-{{< imgproc Reputation Fill "600x300" >}}
-Future of Swarm: Reputation Systems
-{{< /imgproc >}}
+
 
 
 https://github.com/Catalyst-Swarm/Catalyst-Beehive/issues/199#issuecomment-917441743

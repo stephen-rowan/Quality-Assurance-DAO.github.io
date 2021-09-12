@@ -13,9 +13,5 @@ resources:
 
 ## Including images
 
-{{< imgproc Reputation Fill "600x300" >}}
-Future of Swarm: Reputation Systems. Zoom session.
-{{< /imgproc >}}
-
 
 https://github.com/Catalyst-Swarm/Catalyst-Beehive/issues/199#issuecomment-917441743

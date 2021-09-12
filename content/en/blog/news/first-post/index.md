@@ -1,8 +1,8 @@
 ---
-date: 2018-10-06
-title: "What is Quality Assurance DAO (QA-DAO)"
-linkTitle: "What is Quality Assurance DAO (QA-DAO)"
-description: "Quality Assurance DAO (QA-DAO) is an ongoing open source project that provides support for the Cardano Project Catalyst Community."
+date: 2021-09-11
+title: "Future of Swarm: Reputation Systems"
+linkTitle: "Future of Swarm: Reputation Systems"
+description: "Possible PRISM integration and giving tokens to people who join meets"
 author: Stephen Whitenstall
 resources:
 - src: "**.{png,jpg}"
@@ -11,10 +11,9 @@ resources:
     byline: "Quality Assurance DAO"
 ---
 
-**Quality Assurance DAO (QA-DAO) .**
+**Future of Swarm: Reputation Systems**
 
-Quality Assurance DAO (QA-DAO) is an ongoing open source project that provides support for the Cardano Project Catalyst Community. 
-In Fund 5 of Project Catalyst QA-DAO submitted a proposal "Quality Assurance DAO" in the Developer Ecosystem Challenge that sought to encourage open-source collaboration & innovation and to do a QA Assessment of Catalyst Proposal Process itself. This proposal was successful in receiving votes and was funded in August 2021. Governance of the Quality Assurance DAO Fund 5 proposal may be followed here
+https://github.com/Catalyst-Swarm/Catalyst-Beehive/issues/199#issuecomment-917441743
 
 ## Including images
 
@@ -25,23 +24,4 @@ Future of Swarm: Reputation Systems. Zoom session.
 {{< /imgproc >}}
 
 The front matter of this post specifies properties to be assigned to all image resources:
-
-```
-resources:
-- src: "**.{png,jpg}"
-  title: "Image #:counter"
-  params:
-    byline: "Photo: Riona MacNamara / CC-BY-CA"
-```
-
-To include the image in a page, specify its details like this:
-
-```
-{{< imgproc sunset Fill "600x300" >}}
-Fetch and scale an image in the upcoming Hugo 0.43.
-{{< /imgproc >}}
-```
-
-The image will be rendered at the size and byline specified in the front matter.
-
 

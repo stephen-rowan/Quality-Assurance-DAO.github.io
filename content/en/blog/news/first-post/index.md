@@ -20,7 +20,7 @@ In Fund 5 of Project Catalyst QA-DAO submitted a proposal "Quality Assurance DAO
 
 Here's an image (`featured-sunset-get.png`) that includes a byline and a caption.
 
-{{< imgproc sunset Fill "600x300" >}}
+{{< imgproc Reputation Fill "600x300" >}}
 Fetch and scale an image in the upcoming Hugo 0.43.
 {{< /imgproc >}}
 

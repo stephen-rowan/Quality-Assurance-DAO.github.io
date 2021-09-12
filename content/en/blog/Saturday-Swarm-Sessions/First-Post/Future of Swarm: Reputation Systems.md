@@ -13,8 +13,8 @@ resources:
 
 ## Including images
 
-{{< imgproc reputations Fill "600x300" >}}
-Future of Swarm: Reputation Systems
+{{< imgproc Reputation Fill "600x300" >}}
+Future of Swarm: Reputation Systems. Zoom session.
 {{< /imgproc >}}
 
 

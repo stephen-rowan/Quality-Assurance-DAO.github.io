@@ -8,7 +8,7 @@ resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"
   params:
-    byline: "Future of Swarm: Reputation Systems"
+    byline: "Quality Assurance DAO"
 ---
 
 **Quality Assurance DAO (QA-DAO) .**
@@ -21,7 +21,7 @@ In Fund 5 of Project Catalyst QA-DAO submitted a proposal "Quality Assurance DAO
 Here's an image (`featured-sunset-get.png`) that includes a byline and a caption.
 
 {{< imgproc Reputation Fill "600x300" >}}
-Fetch and scale an image in the upcoming Hugo 0.43.
+Future of Swarm: Reputation Systems. Zoom session.
 {{< /imgproc >}}
 
 The front matter of this post specifies properties to be assigned to all image resources:

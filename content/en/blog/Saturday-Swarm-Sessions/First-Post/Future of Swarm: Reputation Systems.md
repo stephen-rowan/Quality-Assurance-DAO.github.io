@@ -8,12 +8,17 @@ resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"
   params:
-    byline: "Future of Swarm: Reputation Systems"
+    byline: "Quality Assurance DAO"
 ---
 
 ## Including images
 
 Here's an image (`Reputation.png`) that includes a byline and a caption.
+
+{{< imgproc Reputation Fill "600x300" >}}
+Future of Swarm: Reputation Systems. Zoom session.
+{{< /imgproc >}}
+
 
 
 

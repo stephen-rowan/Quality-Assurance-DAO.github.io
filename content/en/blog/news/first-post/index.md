@@ -13,3 +13,6 @@ resources:
 
 The front matter of this post specifies properties to be assigned to all image resources:
 
+
+![](https://user-images.githubusercontent.com/25156451/132986348-fd09ad51-10ce-4636-94c2-a5f752f40e9b.png)
+

@@ -10,18 +10,11 @@ resources:
   params:
     byline: "Quality Assurance DAO"
 ---
-
-**Future of Swarm: Reputation Systems**
-
-https://github.com/Catalyst-Swarm/Catalyst-Beehive/issues/199#issuecomment-917441743
-
-## Including images
-
-Here's an image (`featured-sunset-get.png`) that includes a byline and a caption.
-
 {{< imgproc Reputation Fill "600x300" >}}
 Future of Swarm: Reputation Systems. Zoom session.
 {{< /imgproc >}}
+
+https://github.com/Catalyst-Swarm/Catalyst-Beehive/issues/199#issuecomment-917441743
 
 The front matter of this post specifies properties to be assigned to all image resources:
 

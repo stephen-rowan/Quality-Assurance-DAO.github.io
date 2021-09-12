@@ -10,9 +10,8 @@ resources:
   params:
     byline: "Quality Assurance DAO"
 ---
-{{< imgproc Reputation Fill "600x300" >}}
-Future of Swarm: Reputation Systems. Zoom session.
-{{< /imgproc >}}
+
+![](https://user-images.githubusercontent.com/25156451/132986348-fd09ad51-10ce-4636-94c2-a5f752f40e9b.png)
 
 https://github.com/Catalyst-Swarm/Catalyst-Beehive/issues/199#issuecomment-917441743
 

@@ -1,5 +1,5 @@
 ---
-date: 2021-09-10
+date: 2021-09-11
 title: "Future of Swarm: Reputation Systems"
 linkTitle: "Future of Swarm: Reputation Systems"
 description: "Possible PRISM integration and giving tokens to people who join meets"

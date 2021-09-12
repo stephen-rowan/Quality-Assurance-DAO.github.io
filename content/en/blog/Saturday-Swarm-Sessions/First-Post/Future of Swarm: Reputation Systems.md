@@ -5,18 +5,18 @@ linkTitle: "Future of Swarm: Reputation Systems"
 description: "Possible PRISM integration and giving tokens to people who join meets"
 author: Stephen Whitenstall
 resources:
-- src: "**2021-09-12*.jpg"
+- src: "**Reputation*.jpg"
   params:
     byline: "Future of Swarm: Reputation Systems"
 ---
 
 ## Including images
 
-Here's an image (`2021-09-12.png`) that includes a byline and a caption.
+Here's an image (`Reputation.png`) that includes a byline and a caption.
 
 
-{{< imgproc 2021-09-12 Fill "600x300" >}}
-Fetch and scale an image in the upcoming Hugo 0.43.
+{{< imgproc Reputation Fill "600x300" >}}
+Future of Swarm: Reputation Systems
 {{< /imgproc >}}
 
 

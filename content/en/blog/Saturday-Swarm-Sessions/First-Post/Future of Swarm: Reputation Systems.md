@@ -5,8 +5,7 @@ linkTitle: "Future of Swarm: Reputation Systems"
 description: "Possible PRISM integration and giving tokens to people who join meets"
 author: Stephen Whitenstall
 resources:
-- src: "**.{png,jpg}"
-  title: "Image #:counter"
+- src: "**Reputation*.png"
   params:
     byline: "Quality Assurance DAO"
 ---

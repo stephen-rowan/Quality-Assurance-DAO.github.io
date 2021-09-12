@@ -8,7 +8,7 @@ resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"
   params:
-    byline: "Photo: Riona MacNamara / CC-BY-CA"
+    byline: "Future of Swarm: Reputation Systems"
 ---
 
 **Quality Assurance DAO (QA-DAO) .**

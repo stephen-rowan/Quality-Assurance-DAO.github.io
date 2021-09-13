@@ -16,21 +16,22 @@ resources:
 https://github.com/Catalyst-Swarm/Catalyst-Beehive/issues/199#issuecomment-917441743
 
 ## References 
-### Decentralized Identifiers (DIDs) v1.0 - Core architecture, data model, and representations
+### Decentralized Identifiers (DIDs) v1.0
+- Core architecture, data model, and representations
 - https://www.w3.org/TR/did-core/ - 
 - https://github.com/w3c-ccg
 - https://www.w3.org/community/
-### atala-prism
+### Atala Prism
 - https://www.atixlabs.com/atala-prism
 - https://www.atixlabs.com/didi
-### F6: Atala PRISM DID Mass-Scale Adoption - Challenge - 
+### Fund 6: Atala PRISM DID Mass-Scale Adoption 
 - https://cardano.ideascale.com/a/campaign-home/26116
 ### Interplanetary File System
 - Interplanetary File System - https://ipfs.io/
-### Danielle_Citron
+### Danielle Citron
 - https://en.wikipedia.org/wiki/Danielle_Citron
 - https://www.daniellecitron.com/
-- - Law's Expressive Value in Combating Cyber Gender Harassment  - https://repository.law.umich.edu/cgi/viewcontent.cgi?article=1300&context=mlr
+- Law's Expressive Value in Combating Cyber Gender Harassment  - https://repository.law.umich.edu/cgi/viewcontent.cgi?article=1300&context=mlr
 
 
 

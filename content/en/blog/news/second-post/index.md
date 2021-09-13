@@ -15,4 +15,22 @@ resources:
 
 https://github.com/Catalyst-Swarm/Catalyst-Beehive/issues/199#issuecomment-917441743
 
-The front matter of this post specifies properties to be assigned to all image resources:
+## References 
+### Decentralized Identifiers (DIDs) v1.0 - Core architecture, data model, and representations
+- https://www.w3.org/TR/did-core/ - 
+- https://github.com/w3c-ccg
+- https://www.w3.org/community/
+### atala-prism
+- https://www.atixlabs.com/atala-prism
+- https://www.atixlabs.com/didi
+### F6: Atala PRISM DID Mass-Scale Adoption - Challenge - 
+- https://cardano.ideascale.com/a/campaign-home/26116
+### Interplanetary File System
+- Interplanetary File System - https://ipfs.io/
+### Danielle_Citron
+- https://en.wikipedia.org/wiki/Danielle_Citron
+- https://www.daniellecitron.com/
+- - Law's Expressive Value in Combating Cyber Gender Harassment  - https://repository.law.umich.edu/cgi/viewcontent.cgi?article=1300&context=mlr
+
+
+

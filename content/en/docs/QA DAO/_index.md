@@ -5,5 +5,4 @@ weight: 2
 description: >
   Quality Assurance DAO - The Distributed Autonomous Organisation of Quality Assurance
 ---
-
- What does your user need to know to try your project?
+Documentation of Quality Assurance DAO

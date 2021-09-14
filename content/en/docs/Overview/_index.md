@@ -3,7 +3,7 @@ title: "Overview"
 linkTitle: "Overview"
 weight: 1
 description: >
-  The main activities of Quality Assurance DAO
+  The Distributed Autonomous Organisation of Quality Assurance
 ---
 ### Documentation & Tracking
 QA-DAO designs and maintains documentation and tracks activity in open-source GitHub repositories for the Catalyst Circle, Catalyst Swarm and The Catalyst School.

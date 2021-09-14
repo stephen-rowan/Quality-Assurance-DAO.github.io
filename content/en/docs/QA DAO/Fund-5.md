@@ -1,6 +1,6 @@
 ---
-title: "Catalyst Fund 5 - QA-DAO"
-linkTitle: "Catalyst Fund 5 - QA-DAO"
+title: "Catalyst Fund 5"
+linkTitle: "Catalyst Fund 5"
 date: 2021-05-09
 description: >
   In Fund 5 of Project Catalyst QA-DAO submitted a proposal "Quality Assurance DAO" in the Developer Ecosystem Challenge. 
